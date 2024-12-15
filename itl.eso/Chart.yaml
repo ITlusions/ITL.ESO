@@ -1,0 +1,15 @@
+apiVersion: v2
+name: itl.eso
+description: Customized External-Secrets
+
+type: application
+
+version: 1.0.0
+
+appVersion: "1.0.0"
+
+#dependencies:
+#  - name: 
+#    version: ""
+#    repository: ""
+#    alias:
